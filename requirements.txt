@@ -1,2 +1,6 @@
-Faker
+
+random
+json
+faker
 streamlit
+altair
